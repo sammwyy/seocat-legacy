@@ -1,0 +1,128 @@
+html {
+    background-color: #222;
+}
+
+.container {
+    width: 30%;
+    margin-top: 5%;
+    z-index: 10;
+}
+
+.cat-logo {
+    height: 180px;
+}
+
+.logo-container {
+    text-align: center;
+}
+
+.title {
+    color: #EEE;
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+
+.title-nav {
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    margin-left: 10px;
+}
+
+.or {
+    color: #F46916;
+}
+
+#cur {
+    bottom: 0;
+    position: absolute;
+    fill: #F46916;
+}
+
+#url {
+    background-color: #333;
+    border-color: #121212;
+    color: white;
+}
+
+.smbtn {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #1d1d1d;
+    height: 60px;
+}
+
+.is-primary {
+    background-color: #F46916!important;
+}
+
+.social-btns {
+    position: absolute;
+    bottom: 0;
+}
+
+.social-item {
+    margin: 10px;
+    background-color: white;
+    padding: 5px 50px;
+    border-radius: 20px;
+    text-align: left;
+}
+
+.con-w {
+    color: white;
+    margin-top: 5%;
+    width: 22%;
+}
+
+form:focus {
+    background-color: #666;
+}
+
+h2 {
+    font-size: 29px;
+}
+
+.web-info {
+    margin: 20px 0;
+}
+
+p.title {
+    color: #333;
+}
+
+.seo-result {
+    width: 64%!important;
+    right: 1;
+    top: 1;
+    position: absolute;
+}
+
+.keyword {
+    background-color: #d3d3d3;
+    padding: 4px 20px;
+    border-radius: 20px;
+    margin: 3px 0;
+    display: inline-block;
+}
+
+.meta {
+    display: block;
+    margin: 10px 0;
+}
+
+.right {
+    float: right;
+}
+
+.inbl {
+    display: inline-block;
+}
+
+.page {
+    margin: auto;
+    width: 80%;
+}
